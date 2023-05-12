@@ -1,0 +1,6 @@
+packages/
+RestAPI_TicTacToe/obj/
+RestAPI_TicTacToe/bin
+RestAPI_TicTacToe_Tests/obj
+RestAPI_TicTacToe_Tests/bin
+/.vs
