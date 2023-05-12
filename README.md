@@ -1,4 +1,4 @@
-# First_WebApi
+# WebApi_game
 
 ## Project description:
 This is a realization of the game TicTacToe in C#, made by using Repository-Service-Controller pattern.
